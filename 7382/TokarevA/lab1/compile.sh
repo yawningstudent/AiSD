@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ ./source/lab1.Xc -o lab1
+g++ ./source/lab1.cpp -o lab1
